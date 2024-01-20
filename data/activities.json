@@ -11,5 +11,6 @@
   {"id": "garmin-13496069446", "date": "2024-01-14", "type": "running", "duration_s": 1153, "distance_km": 3.21},
   {"id": "garmin-13498001703", "date": "2024-01-14", "type": "running", "duration_s": 2735, "distance_km": 10.02},
   {"id": "garmin-13517175013", "date": "2024-01-15", "type": "indoor_cycling", "duration_s": 2826, "distance_km": 14.65},
-  {"id": "garmin-13575887146", "date": "2024-01-19", "type": "indoor_cycling", "duration_s": 3599, "distance_km": 21.53}
+  {"id": "garmin-13575887146", "date": "2024-01-19", "type": "indoor_cycling", "duration_s": 3599, "distance_km": 21.53},
+  {"id": "garmin-13589950947", "date": "2024-01-20", "type": "running", "duration_s": 4471, "distance_km": 10.96}
 ]
