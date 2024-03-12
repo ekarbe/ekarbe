@@ -35,5 +35,6 @@
   {"id": "garmin-14160824820", "date": "2024-02-27", "type": "cycling", "duration_s": 947, "distance_km": 5.38},
   {"id": "garmin-14160947539", "date": "2024-02-27", "type": "soccer", "duration_s": 5400, "distance_km": 5.0},
   {"id": "garmin-14324846443", "date": "2024-03-09", "type": "running", "duration_s": 2000, "distance_km": 6.26},
-  {"id": "garmin-14358439890", "date": "2024-03-11", "type": "running", "duration_s": 3070, "distance_km": 9.64}
+  {"id": "garmin-14358439890", "date": "2024-03-11", "type": "running", "duration_s": 3070, "distance_km": 9.64},
+  {"id": "garmin-14370431096", "date": "2024-03-12", "type": "running", "duration_s": 4033, "distance_km": 12.11}
 ]
