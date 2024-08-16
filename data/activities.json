@@ -211,5 +211,6 @@
   {"id": "garmin-16734265670", "date": "2024-08-11", "type": "stand_up_paddleboarding_v2", "duration_s": 1431, "distance_km": 1.33},
   {"id": "garmin-16748117084", "date": "2024-08-13", "type": "strength_training", "duration_s": 471, "distance_km": null},
   {"id": "garmin-16748541701", "date": "2024-08-13", "type": "running", "duration_s": 4026, "distance_km": 13.74},
-  {"id": "garmin-16768732952", "date": "2024-08-15", "type": "running", "duration_s": 3838, "distance_km": 13.09}
+  {"id": "garmin-16768732952", "date": "2024-08-15", "type": "running", "duration_s": 3838, "distance_km": 13.09},
+  {"id": "garmin-16777104140", "date": "2024-08-16", "type": "strength_training", "duration_s": 427, "distance_km": null}
 ]
