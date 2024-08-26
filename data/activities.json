@@ -225,5 +225,6 @@
   {"id": "garmin-16830416682", "date": "2024-08-22", "type": "running", "duration_s": 488, "distance_km": 1.61},
   {"id": "garmin-16841709485", "date": "2024-08-23", "type": "indoor_cycling", "duration_s": 1906, "distance_km": 15.2},
   {"id": "garmin-16854681290", "date": "2024-08-25", "type": "running", "duration_s": 371, "distance_km": 1.24},
-  {"id": "garmin-16854683955", "date": "2024-08-25", "type": "running", "duration_s": 5491, "distance_km": 21.3}
+  {"id": "garmin-16854683955", "date": "2024-08-25", "type": "running", "duration_s": 5491, "distance_km": 21.3},
+  {"id": "garmin-16867699068", "date": "2024-08-26", "type": "virtual_ride", "duration_s": 2716, "distance_km": 18.44}
 ]
