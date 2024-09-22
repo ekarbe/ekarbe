@@ -255,5 +255,6 @@
   {"id": "garmin-17064002203", "date": "2024-09-18", "type": "cycling", "duration_s": 605, "distance_km": 3.06},
   {"id": "garmin-17070435027", "date": "2024-09-18", "type": "cycling", "duration_s": 690, "distance_km": 3.29},
   {"id": "garmin-17072977012", "date": "2024-09-19", "type": "cycling", "duration_s": 566, "distance_km": 3.21},
-  {"id": "garmin-17078513848", "date": "2024-09-19", "type": "running", "duration_s": 2914, "distance_km": 10.31}
+  {"id": "garmin-17078513848", "date": "2024-09-19", "type": "running", "duration_s": 2914, "distance_km": 10.31},
+  {"id": "garmin-17101904209", "date": "2024-09-22", "type": "strength_training", "duration_s": 517, "distance_km": null}
 ]
