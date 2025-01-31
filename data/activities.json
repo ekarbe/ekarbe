@@ -355,5 +355,6 @@
   {"id": "garmin-18089131238", "date": "2025-01-24", "type": "running", "duration_s": 1893, "distance_km": 6.48},
   {"id": "garmin-18103990856", "date": "2025-01-26", "type": "running", "duration_s": 3077, "distance_km": 10.87},
   {"id": "garmin-18113772980", "date": "2025-01-27", "type": "running", "duration_s": 2431, "distance_km": 8.11},
-  {"id": "garmin-18149722584", "date": "2025-01-31", "type": "running", "duration_s": 3018, "distance_km": 10.77}
+  {"id": "garmin-18149722584", "date": "2025-01-31", "type": "running", "duration_s": 3018, "distance_km": 10.77},
+  {"id": "garmin-18151472180", "date": "2025-01-31", "type": "virtual_ride", "duration_s": 1808, "distance_km": 13.06}
 ]
