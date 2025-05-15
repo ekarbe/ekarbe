@@ -453,5 +453,6 @@
   {"id": "garmin-19123398549", "date": "2025-05-14", "type": "strength_training", "duration_s": 498, "distance_km": null},
   {"id": "garmin-19123772765", "date": "2025-05-14", "type": "virtual_ride", "duration_s": 1851, "distance_km": 14.1},
   {"id": "garmin-19133475122", "date": "2025-05-15", "type": "strength_training", "duration_s": 541, "distance_km": null},
-  {"id": "garmin-19133817775", "date": "2025-05-15", "type": "virtual_ride", "duration_s": 1809, "distance_km": 13.12}
+  {"id": "garmin-19133817775", "date": "2025-05-15", "type": "virtual_ride", "duration_s": 1809, "distance_km": 13.12},
+  {"id": "garmin-19134316577", "date": "2025-05-15", "type": "strength_training", "duration_s": 1895, "distance_km": null}
 ]
