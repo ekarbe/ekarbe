@@ -531,5 +531,6 @@
   {"id": "garmin-19752957158", "date": "2025-07-16", "type": "indoor_cycling", "duration_s": 3594, "distance_km": 24.05},
   {"id": "garmin-19763909568", "date": "2025-07-17", "type": "running", "duration_s": 2318, "distance_km": 7.97},
   {"id": "garmin-19768469952", "date": "2025-07-18", "type": "running", "duration_s": 1568, "distance_km": 5.02},
-  {"id": "garmin-19793460500", "date": "2025-07-20", "type": "indoor_cycling", "duration_s": 3958, "distance_km": 27.46}
+  {"id": "garmin-19793460500", "date": "2025-07-20", "type": "indoor_cycling", "duration_s": 3958, "distance_km": 27.46},
+  {"id": "garmin-19810353778", "date": "2025-07-22", "type": "strength_training", "duration_s": 410, "distance_km": null}
 ]
