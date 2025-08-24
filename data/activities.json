@@ -580,5 +580,6 @@
   {"id": "garmin-20138065512", "date": "2025-08-22", "type": "running", "duration_s": 2208, "distance_km": 8.81},
   {"id": "garmin-20138065901", "date": "2025-08-22", "type": "running", "duration_s": 385, "distance_km": 1.06},
   {"id": "garmin-20148023477", "date": "2025-08-23", "type": "running", "duration_s": 3221, "distance_km": 10.52},
-  {"id": "garmin-20150672456", "date": "2025-08-23", "type": "cycling", "duration_s": 3353, "distance_km": 25.59}
+  {"id": "garmin-20150672456", "date": "2025-08-23", "type": "cycling", "duration_s": 3353, "distance_km": 25.59},
+  {"id": "garmin-20162102566", "date": "2025-08-24", "type": "running", "duration_s": 5184, "distance_km": 19.08}
 ]
