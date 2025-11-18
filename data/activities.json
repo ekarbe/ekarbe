@@ -678,5 +678,6 @@
   {"id": "garmin-20979799249", "date": "2025-11-13", "type": "strength_training", "duration_s": 2561, "distance_km": null},
   {"id": "garmin-20988114961", "date": "2025-11-14", "type": "running", "duration_s": 3103, "distance_km": 9.07},
   {"id": "garmin-21004394254", "date": "2025-11-16", "type": "running", "duration_s": 3474, "distance_km": 11.04},
-  {"id": "garmin-21012955662", "date": "2025-11-17", "type": "running", "duration_s": 2237, "distance_km": 7.23}
+  {"id": "garmin-21012955662", "date": "2025-11-17", "type": "running", "duration_s": 2237, "distance_km": 7.23},
+  {"id": "garmin-21022550562", "date": "2025-11-18", "type": "running", "duration_s": 2735, "distance_km": 8.95}
 ]
