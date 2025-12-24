@@ -726,5 +726,6 @@
   {"id": "garmin-21297672111", "date": "2025-12-19", "type": "running", "duration_s": 2204, "distance_km": 6.74},
   {"id": "garmin-21305889066", "date": "2025-12-20", "type": "running", "duration_s": 2597, "distance_km": 9.05},
   {"id": "garmin-21314681345", "date": "2025-12-21", "type": "running", "duration_s": 4749, "distance_km": 15.15},
-  {"id": "garmin-21331474729", "date": "2025-12-23", "type": "running", "duration_s": 3718, "distance_km": 11.59}
+  {"id": "garmin-21331474729", "date": "2025-12-23", "type": "running", "duration_s": 3718, "distance_km": 11.59},
+  {"id": "garmin-21338515716", "date": "2025-12-24", "type": "running", "duration_s": 3338, "distance_km": 11.15}
 ]
