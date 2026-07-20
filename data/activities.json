@@ -992,5 +992,6 @@
   {"id": "garmin-23605231881", "date": "2026-07-15", "type": "running", "duration_s": 2741, "distance_km": 9.04},
   {"id": "garmin-23629029374", "date": "2026-07-17", "type": "running", "duration_s": 2664, "distance_km": 9.05},
   {"id": "garmin-23638580958", "date": "2026-07-18", "type": "virtual_ride", "duration_s": 3603, "distance_km": 28.12},
-  {"id": "garmin-23654178096", "date": "2026-07-19", "type": "running", "duration_s": 3643, "distance_km": 12.1}
+  {"id": "garmin-23654178096", "date": "2026-07-19", "type": "running", "duration_s": 3643, "distance_km": 12.1},
+  {"id": "garmin-23668517661", "date": "2026-07-20", "type": "virtual_ride", "duration_s": 2412, "distance_km": 18.45}
 ]
