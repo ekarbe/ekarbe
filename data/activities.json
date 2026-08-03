@@ -1011,5 +1011,6 @@
   {"id": "garmin-23802466076", "date": "2026-07-31", "type": "pilates", "duration_s": 4065, "distance_km": null},
   {"id": "garmin-23810510257", "date": "2026-08-01", "type": "virtual_ride", "duration_s": 3609, "distance_km": 28.87},
   {"id": "garmin-23820999774", "date": "2026-08-02", "type": "virtual_ride", "duration_s": 3605, "distance_km": 28.33},
-  {"id": "garmin-23822100312", "date": "2026-08-02", "type": "running", "duration_s": 4352, "distance_km": 15.51}
+  {"id": "garmin-23822100312", "date": "2026-08-02", "type": "running", "duration_s": 4352, "distance_km": 15.51},
+  {"id": "garmin-23838067909", "date": "2026-08-03", "type": "lap_swimming", "duration_s": 377, "distance_km": 0.23}
 ]
