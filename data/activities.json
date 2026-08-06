@@ -1016,5 +1016,6 @@
   {"id": "garmin-23847010322", "date": "2026-08-04", "type": "running", "duration_s": 3123, "distance_km": 11.23},
   {"id": "garmin-23860295203", "date": "2026-08-05", "type": "running", "duration_s": 2832, "distance_km": 9.06},
   {"id": "garmin-23870479694", "date": "2026-08-06", "type": "running", "duration_s": 805, "distance_km": 2.54},
-  {"id": "garmin-23870480236", "date": "2026-08-06", "type": "running", "duration_s": 1361, "distance_km": 5.24}
+  {"id": "garmin-23870480236", "date": "2026-08-06", "type": "running", "duration_s": 1361, "distance_km": 5.24},
+  {"id": "garmin-23870608557", "date": "2026-08-06", "type": "running", "duration_s": 744, "distance_km": 2.13}
 ]
