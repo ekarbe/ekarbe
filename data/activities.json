@@ -1083,5 +1083,6 @@
   {"id": "garmin-24612424885", "date": "2026-10-05", "type": "virtual_ride", "duration_s": 2705, "distance_km": 19.04},
   {"id": "garmin-24625364408", "date": "2026-10-06", "type": "virtual_ride", "duration_s": 3151, "distance_km": 10.53},
   {"id": "garmin-24637960860", "date": "2026-10-07", "type": "running", "duration_s": 3420, "distance_km": 11.06},
-  {"id": "garmin-24649605345", "date": "2026-10-08", "type": "running", "duration_s": 785, "distance_km": 2.58}
+  {"id": "garmin-24649605345", "date": "2026-10-08", "type": "running", "duration_s": 785, "distance_km": 2.58},
+  {"id": "garmin-24649872795", "date": "2026-10-08", "type": "running", "duration_s": 1576, "distance_km": 6.63}
 ]
