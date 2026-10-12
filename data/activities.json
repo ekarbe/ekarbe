@@ -1087,5 +1087,6 @@
   {"id": "garmin-24649872795", "date": "2026-10-08", "type": "running", "duration_s": 1576, "distance_km": 6.63},
   {"id": "garmin-24649947909", "date": "2026-10-08", "type": "running", "duration_s": 332, "distance_km": 1.04},
   {"id": "garmin-24661542755", "date": "2026-10-09", "type": "running", "duration_s": 2511, "distance_km": 8.15},
-  {"id": "garmin-24688237185", "date": "2026-10-11", "type": "strength_training", "duration_s": 2741, "distance_km": null}
+  {"id": "garmin-24688237185", "date": "2026-10-11", "type": "strength_training", "duration_s": 2741, "distance_km": null},
+  {"id": "garmin-24699178343", "date": "2026-10-12", "type": "strength_training", "duration_s": 4260, "distance_km": null}
 ]
