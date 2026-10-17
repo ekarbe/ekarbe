@@ -1,0 +1,4 @@
+# Encrypted login tokens, kept in the Actions cache, never in git
+.tokens/
+__pycache__/
+.pytest_cache/
