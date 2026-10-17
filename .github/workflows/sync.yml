@@ -1,0 +1,71 @@
+name: Sync activities
+
+on:
+  schedule:
+    # 02:23 UTC is 04:23 in Berlin in summer and 03:23 in winter.
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+    inputs:
+      source:
+        description: Where to fetch activities from
+        type: choice
+        options: [auto, garmin, strava]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-activities
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore login tokens
+        uses: actions/cache/restore@v6
+        with:
+          path: .tokens
+          key: login-tokens-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: login-tokens-
+
+      - name: Sync
+        env:
+          SOURCE: ${{ inputs.source || 'auto' }}
+          GARMIN_EMAIL: ${{ secrets.GARMIN_EMAIL }}
+          GARMIN_PASSWORD: ${{ secrets.GARMIN_PASSWORD }}
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+          TOKEN_CACHE_KEY: ${{ secrets.TOKEN_CACHE_KEY }}
+        run: python scripts/sync.py --source "$SOURCE"
+
+      - name: Push
+        run: |
+          for attempt in 1 2 3; do
+            git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            # Someone pushed meanwhile. Merge rather than rebase, so the
+            # backdated activity commits stay exactly as they are.
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                pull --no-rebase --no-edit origin "$GITHUB_REF_NAME"
+          done
+          exit 1
+
+      - name: Save login tokens
+        if: always() && hashFiles('.tokens/tokens.enc') != ''
+        uses: actions/cache/save@v6
+        with:
+          path: .tokens
+          key: login-tokens-${{ github.run_id }}-${{ github.run_attempt }}
