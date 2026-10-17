@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" role="img" aria-label="Training totals for this week, month and year, and streaks">
+<title>Training totals for this week, month and year, and streaks</title>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 12px; fill: #1f2328; }
+.muted { fill: #59636e; }
+.title { font-size: 14px; font-weight: 600; }
+.value { font-size: 13px; font-weight: 600; }
+.small { font-size: 10px; }
+</style>
+<rect x="0.5" y="0.5" width="399" height="209" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="16" y="30" class="title">Training totals</text>
+<text x="220" y="60" class="muted" text-anchor="end">This week</text>
+<text x="302" y="60" class="muted" text-anchor="end">This month</text>
+<text x="384" y="60" class="muted" text-anchor="end">This year</text>
+<text x="16" y="88" class="muted">Activities</text>
+<text x="220" y="88" class="value" text-anchor="end">0</text>
+<text x="302" y="88" class="value" text-anchor="end">0</text>
+<text x="384" y="88" class="value" text-anchor="end">0</text>
+<text x="16" y="114" class="muted">Distance</text>
+<text x="220" y="114" class="value" text-anchor="end">0 km</text>
+<text x="302" y="114" class="value" text-anchor="end">0 km</text>
+<text x="384" y="114" class="value" text-anchor="end">0 km</text>
+<text x="16" y="140" class="muted">Time</text>
+<text x="220" y="140" class="value" text-anchor="end">0 min</text>
+<text x="302" y="140" class="value" text-anchor="end">0 min</text>
+<text x="384" y="140" class="value" text-anchor="end">0 min</text>
+<line x1="16" y1="158" x2="384" y2="158" stroke="#d1d9e0"/>
+<text x="16" y="186"><tspan class="muted">Current streak</tspan><tspan class="value" dx="8">0 days</tspan></text>
+<text x="208.0" y="186"><tspan class="muted">Longest streak</tspan><tspan class="value" dx="8">0 days</tspan></text>
+</svg>

@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Eike 👋
 
-<!--
-**ekarbe/ekarbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TODO: replace YOUR-HANDLE and YOUR-ATHLETE-ID with your LinkedIn handle and Strava athlete ID -->
+[Website](https://eikekarbe.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Strava](https://www.strava.com/athletes/YOUR-ATHLETE-ID)
 
-Here are some ideas to get you started:
+When I'm not writing code, I'm training. Here's what that looks like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/heatmap-dark.svg">
+  <img alt="Heatmap of my training over the last 12 months" src="cards/heatmap-light.svg" width="100%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
+  <img alt="Training totals for this week, month and year, plus streaks" src="cards/stats-light.svg" width="49.5%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/recent-dark.svg">
+  <img alt="My five most recent activities" src="cards/recent-light.svg" width="49.5%">
+</picture>
+
+<sub>Synced nightly from Garmin Connect.</sub>
