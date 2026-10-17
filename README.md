@@ -1,7 +1,6 @@
 ## Hi, I'm Eike 👋
 
-<!-- TODO: replace YOUR-HANDLE and YOUR-ATHLETE-ID with your LinkedIn handle and Strava athlete ID -->
-[Website](https://eikekarbe.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Strava](https://www.strava.com/athletes/YOUR-ATHLETE-ID)
+[Website](https://eikekarbe.com) · [LinkedIn](https://www.linkedin.com/in/eike-karbe) · [Strava](https://www.strava.com/athletes/58442765)
 
 When I'm not writing code, I'm training. Here's what that looks like:
 
