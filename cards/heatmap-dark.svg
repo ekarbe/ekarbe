@@ -393,6 +393,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 
 <rect x="772" y="78" width="11" height="11" rx="2" fill="#151b23" stroke="#ffffff" stroke-opacity="0.06"/>
 <rect x="772" y="92" width="11" height="11" rx="2" fill="#196c2e" stroke="#ffffff" stroke-opacity="0.06"/>
 <rect x="772" y="106" width="11" height="11" rx="2" fill="#151b23" stroke="#ffffff" stroke-opacity="0.06"/>
+<rect x="772" y="120" width="11" height="11" rx="2" fill="#151b23" stroke="#ffffff" stroke-opacity="0.06"/>
 <text x="44" y="181" class="small muted">Shade shows minutes of activity per day</text>
 <text x="681" y="181" class="small muted" text-anchor="end">Less</text>
 <rect x="686" y="172" width="11" height="11" rx="2" fill="#151b23" stroke="#ffffff" stroke-opacity="0.06"/>
