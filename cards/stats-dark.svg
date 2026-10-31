@@ -13,18 +13,18 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 
 <text x="302" y="60" class="muted" text-anchor="end">This month</text>
 <text x="384" y="60" class="muted" text-anchor="end">This year</text>
 <text x="16" y="88" class="muted">Activities</text>
-<text x="220" y="88" class="value" text-anchor="end">2</text>
-<text x="302" y="88" class="value" text-anchor="end">33</text>
-<text x="384" y="88" class="value" text-anchor="end">368</text>
+<text x="220" y="88" class="value" text-anchor="end">5</text>
+<text x="302" y="88" class="value" text-anchor="end">36</text>
+<text x="384" y="88" class="value" text-anchor="end">371</text>
 <text x="16" y="114" class="muted">Distance</text>
-<text x="220" y="114" class="value" text-anchor="end">17.1 km</text>
-<text x="302" y="114" class="value" text-anchor="end">248 km</text>
-<text x="384" y="114" class="value" text-anchor="end">3,424 km</text>
+<text x="220" y="114" class="value" text-anchor="end">27.9 km</text>
+<text x="302" y="114" class="value" text-anchor="end">258 km</text>
+<text x="384" y="114" class="value" text-anchor="end">3,435 km</text>
 <text x="16" y="140" class="muted">Time</text>
-<text x="220" y="140" class="value" text-anchor="end">1h 26m</text>
-<text x="302" y="140" class="value" text-anchor="end">20h 40m</text>
-<text x="384" y="140" class="value" text-anchor="end">257h</text>
+<text x="220" y="140" class="value" text-anchor="end">2h 13m</text>
+<text x="302" y="140" class="value" text-anchor="end">21h 27m</text>
+<text x="384" y="140" class="value" text-anchor="end">258h</text>
 <line x1="16" y1="158" x2="384" y2="158" stroke="#3d444d"/>
-<text x="16" y="186"><tspan class="muted">Current streak</tspan><tspan class="value" dx="8">0 days</tspan></text>
+<text x="16" y="186"><tspan class="muted">Current streak</tspan><tspan class="value" dx="8">1 day</tspan></text>
 <text x="208.0" y="186"><tspan class="muted">Longest streak</tspan><tspan class="value" dx="8">33 days</tspan></text>
 </svg>
